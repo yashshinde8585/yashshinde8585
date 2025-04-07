@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Shinde</h1>
 <h3 align="center">Full Stack Developer & MCA Student</h3>
 
-- 🔭 I’m currently working on **Full Stack MERN Project**
-
-- 🌱 I’m currently learning **Cloud Computing AWS**
-
-- 👯 I’m looking to collaborate on **Full stack Web & Java Developer Role**
-
-- 📫 How to reach me **yashshinde8585@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
