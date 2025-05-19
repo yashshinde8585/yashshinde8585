@@ -5,7 +5,6 @@
 - 💻 Full-stack developer | Backend focused
 - 📚 I love learning about **Java**, **Node.js**, and **Cloud Computing**
 - 🌱 Currently learning **AI tools** and **Prompt Engineering**
-- 🛠️ Tech Stack: Java, JavaScript, SQL, MongoDB, Node.js, Express, React, AWS
 
 
 ## 🔧 Languages and Tools
