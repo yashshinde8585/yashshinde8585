@@ -1,14 +1,5 @@
 # 👋 Hi there, I'm Yash Shinde!
 
-## About Me
-
-I am a **Full-Stack Developer** with a passion for designing and implementing scalable, end-to-end systems. My expertise lies in leveraging the MERN stack for web development and optimizing cloud infrastructures on AWS.
-
-🎓 I hold a Master of Computer Applications (MCA) from MIT-WPU.
-
-- 🔭 **I’m currently working on** building scalable web applications.
-- 🌱 **I’m currently learning** more about advanced JavaScript frameworks and serverless architectures.
-
 ## 🔧 Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
