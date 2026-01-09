@@ -30,14 +30,6 @@
 | **🏠 Wanderlust** | A full-stack Airbnb clone featuring MVC architecture, secure authentication, and Mapbox integration. Deployed on Render with **99% uptime**. | `Express` `MongoDB` `Bootstrap` |
 | **📦 BharatGo Automation** | *(Internship)* engineered an AI Social Media automation system and a Shipping Label preview module, reducing manual vendor effort by **30%**. | `Next.js` `Meta Graph API` `AWS` |
 
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashshinde8585&show_icons=true&theme=minimal" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashshinde8585&layout=compact&theme=minimal" height="180" alt="Top Langs" />
-</div>
 
 <br/>
 
