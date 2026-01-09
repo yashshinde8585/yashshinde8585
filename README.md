@@ -2,15 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yash+Shinde;Full+Stack+Developer;Building+AI-Driven+SaaS;SDE+Intern+%40+BharatGo" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <h3>🚀 Turning complex logic into intuitive, scalable products.</h3>
-  <br/>
-</div>
-
-<p align="center">
- I am a <b>Full Stack Developer</b> and <b>MCA Student</b> driven by a product-first mindset. Currently, I'm engineering scalable B2B SaaS solutions at <a href="https://bharatgo.com">BharatGo</a>, where I focus on automation and reducing manual workflows. My goal is simple: <b>build tools that solve real business problems with clean code and cleaner UI.</b>
-</p>
-
 <br/>
 
 ## 🛠️ Tech Stack & Arsenal
@@ -22,16 +13,6 @@
 
 <br/>
 
-## 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🤖 AI Code Reviewer** | A smart code analysis tool powered by **Google Gemini 1.5**. It provides diff-based suggestions, detects hallucinations, and ensures code quality with prompt guardrails. | `React` `Node.js` `Gemini API` |
-| **🏠 Wanderlust** | A full-stack Airbnb clone featuring MVC architecture, secure authentication, and Mapbox integration. Deployed on Render with **99% uptime**. | `Express` `MongoDB` `Bootstrap` |
-| **📦 BharatGo Automation** | *(Internship)* engineered an AI Social Media automation system and a Shipping Label preview module, reducing manual vendor effort by **30%**. | `Next.js` `Meta Graph API` `AWS` |
-
-
-<br/>
 
 ## 🤝 Let's Connect
 
