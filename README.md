@@ -35,8 +35,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashshinde8585&show_icons=true&theme=minimal&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashshinde8585&layout=compact&theme=minimal"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashshinde8585&show_icons=true&theme=minimal" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashshinde8585&layout=compact&theme=minimal" height="180" alt="Top Langs" />
 </div>
 
 <br/>
